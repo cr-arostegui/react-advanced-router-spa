@@ -1,0 +1,21 @@
+# React Advanced Router SPA
+- Data fetching with a loader
+- Using data from a Loader in the route component
+- loader() Data usage
+- Where should be stored loader code
+- When loader function should be executed
+- Reflect the current navigation state in the UI
+- Return responses in loader()
+- Which kind of code goes into loader()
+- Error handling with custom errors
+- Extracting error data & throwing responses
+- The json() utility function
+- Dynamic Routes & loader()
+- The useRouterLoaderData() Hook & Accessing data from other routes
+- Plan data submission
+- Working with action() functions
+- Submitting Data programatically
+- Updating the UI state based on the submission status
+- Validating user input & outputting Validation erros
+- Reusing actions via Request methods
+- Deferring data fetching with defer()
